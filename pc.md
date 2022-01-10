@@ -24,7 +24,7 @@ Now that you are all set up, it's time to learn a little more about the tools of
 git is a version control thing and GitHub is the same thing but other people and colllab
 
 2. Why do we create a branch? 
-To  isolate our work from other team members
+To  isolate our work from other team membe
 
 3. What is the purpose of a pull request? 
 Is to communicate to others about the changes you made
